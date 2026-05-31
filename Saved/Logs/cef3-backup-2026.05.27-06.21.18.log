@@ -1,0 +1,16 @@
+[20128:20132:0526/152741.482:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20128:5668:0526/152741.517:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20128:20132:0526/152741.538:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11288:5808:0526/152745.588:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-32D063FFB1A8C6BCFDBBC554CAA6ED74 will be ignored
+[20128:20132:0526/154132.680:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20128:20132:0526/154137.792:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20128:20132:0526/154142.823:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20128:20132:0526/154148.574:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19196:5156:0527/091956.898:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20128:20004:0527/091956.897:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20128:5668:0527/092001.903:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19196:3924:0527/092001.977:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20128:20044:0527/092001.996:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19196:3924:0527/092002.004:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20128:5668:0527/092002.184:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20128:20132:0527/092118.013:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

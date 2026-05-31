@@ -1,0 +1,10 @@
+Milestone 2 Completed:
+- 2.5D side camera
+- Player and CPU fighter
+- Manual debug control for CPU
+- Health system
+- Health bars HUD
+- Basic light/heavy attacks
+- Fighter states
+- HitStun and Defeated state
+- Debug state print system

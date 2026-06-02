@@ -1,3 +1,6 @@
-2026/06/02-11:34:43.813 5b20 Reusing MANIFEST C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/02-11:34:43.819 5b20 Recovering log #3
-2026/06/02-11:34:43.821 5b20 Reusing old log C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
+2026/06/02-23:05:37.515 687c Reusing MANIFEST C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/02-23:05:37.522 687c Recovering log #3
+2026/06/02-23:05:37.525 687c Reusing old log C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
+2026/06/02-23:06:28.019 1cf4 Level-0 table #5: started
+2026/06/02-23:06:28.022 1cf4 Level-0 table #5: 60700 bytes OK
+2026/06/02-23:06:28.026 1cf4 Delete type=0 #3

@@ -1,6 +1,11 @@
-[24508:13112:0602/230537.424:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24508:2856:0602/230537.456:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24508:13112:0602/230537.475:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9140:20812:0602/230541.166:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-07E58B81A7480C1A014EA4E78A503686 will be ignored
-[24508:13112:0602/230558.664:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24508:13112:0602/230628.088:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24604:24608:0606/160901.843:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24604:22384:0606/160901.888:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24604:24608:0606/160901.907:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22656:22940:0606/160905.627:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E58DEDBE43E4C69BE74587F8FE88ED92 will be ignored
+[24604:24608:0606/170508.582:ERROR:device_event_log_impl.cc(196)] [17:05:08.363] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24604:24608:0606/170508.582:ERROR:device_event_log_impl.cc(196)] [17:05:08.373] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[24604:24608:0606/221444.972:ERROR:device_event_log_impl.cc(196)] [22:14:44.697] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24604:24608:0606/221444.972:ERROR:device_event_log_impl.cc(196)] [22:14:44.705] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[24604:24608:0606/223320.413:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24604:24608:0606/223934.298:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24604:24608:0607/005759.950:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,15 @@
+[15272:14048:0607/175638.139:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15272:28604:0607/175638.185:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15272:14048:0607/175638.211:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15272:14048:0607/175644.208:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26724:5596:0607/175644.675:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0EB0FF2B5EBF6D3EDC4FFB9B467888F1 will be ignored
+[15272:14048:0607/175649.199:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15272:14048:0607/175654.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15272:14048:0607/175804.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15272:14048:0607/175809.652:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15272:14048:0607/175819.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15272:14048:0607/175824.665:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15272:14048:0607/175916.287:ERROR:device_event_log_impl.cc(196)] [17:59:16.286] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[15272:14048:0607/175916.311:ERROR:device_event_log_impl.cc(196)] [17:59:16.290] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[15272:14048:0607/175956.372:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15272:14048:0607/180104.537:ERROR:device_event_log_impl.cc(196)] [18:01:04.504] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)

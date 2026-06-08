@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2026/06/01-01:19:22.148 1fa8 Reusing MANIFEST C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Sync Data\LevelDB/MANIFEST-000001
 2026/06/01-01:19:22.150 1fa8 Recovering log #3
 2026/06/01-01:19:22.151 1fa8 Reusing old log C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Sync Data\LevelDB/000003.log 
+=======
+2026/06/09-02:08:33.736 5ec0 Reusing MANIFEST C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/06/09-02:08:33.737 5ec0 Recovering log #3
+2026/06/09-02:08:33.738 5ec0 Reusing old log C:\Users\Gliko\Documents\Unreal Projects\MyProject\Saved\webcache_6613_1\Default\Sync Data\LevelDB/000003.log 
+>>>>>>> Stashed changes
